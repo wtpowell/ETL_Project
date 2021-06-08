@@ -1,12 +1,12 @@
 # ETL_Project
 We are aiming to have clean datasets that allow us to compare multiple variables and how they relate to Covid vaccine rollouts around the globe.
 
-Members:
-William Powell
-Jungkyu Kim
-Kaixin Yang
-Hannah Slay
-Alex Gainer
+Members: <br/>
+William Powell<br/>
+Jungkyu Kim<br/>
+Kaixin Yang<br/>
+Hannah Slay<br/>
+Alex Gainer<br/>
 
 
 1.	Extract: the original data sources and how they were formatted <br/>
