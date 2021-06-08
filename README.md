@@ -2,7 +2,7 @@
 We are aiming to have clean datasets that allow us to compare multiple variables and how they relate to Covid vaccine rollouts around the globe.
 
 
-1.	Extract: the original data sources and how they were formatted
+1.	Extract: the original data sources and how they were formatted <br/>
   a.	 Covid World Vaccination Progress:
     i.	https://www.kaggle.com/gpreda/covid-world-vaccination-progress
   b.	World Happiness Data:
